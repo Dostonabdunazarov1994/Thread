@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Potok-2\Potok-2\bin\Debug\Potok-2.exe.config
+C:\Users\Acer\source\repos\Potok-2\Potok-2\bin\Debug\Potok-2.exe
+C:\Users\Acer\source\repos\Potok-2\Potok-2\bin\Debug\Potok-2.pdb
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok-2.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok_2.Form1.resources
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok_2.Properties.Resources.resources
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok-2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok-2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok-2.exe
+C:\Users\Acer\source\repos\Potok-2\Potok-2\obj\Debug\Potok-2.pdb
